@@ -1,0 +1,19 @@
+body{
+ 
+  margin: 0;
+    text-align: center;
+    background:linear-gradient(#B388FF 0%, pink 100%);
+  
+  padding-left:500px;
+  padding-right:500px;
+  line-height:2;
+  font-size:18px;
+}
+
+#img1{
+  width:200px;
+  height:200px;
+}
+#h4{
+  font-size:30px;
+}
